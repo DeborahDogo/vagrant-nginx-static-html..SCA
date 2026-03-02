@@ -6,3 +6,4 @@ This sets up a virtual machine with Nginx and a simple HTML page.
 2. Run vagrant up.
 3. Visit http://192.168.56.40 in your browser.
 
+# Vagrant Nginx Deployment
